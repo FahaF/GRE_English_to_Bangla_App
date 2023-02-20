@@ -1,0 +1,79 @@
+[
+    {
+        "id": 1,
+        "word": "Puppy",
+		"sentence": "কুকুরছানা",
+		"voice": "US English Female",
+		"langCode": "en-us",
+		"topics": {
+			"animals-en": true
+		},
+        "img": "https://media.istockphoto.com/id/1218928612/photo/puppies-golden-retriever-breed-with-pedigree-playing-running-they-roll-in-the-grass-in-slow.jpg?s=612x612&w=0&k=20&c=8_qYerdxczfs1E33tucagE-DFiMereboHFBm7jgTBTs="
+	},
+	{
+        "id": 2,
+        "word": "Kitten",
+		"sentence": "বিড়ালছানা",
+		"voice": "US English Female",
+		"langCode": "en-us",
+		"topics": {
+			"animals-en": true
+		},
+        "img": "https://www.bluecross.org.uk/sites/default/files/d8/assets/images/118809lprLR.jpg"
+	},
+	{
+        "id": 3,
+        "word": "Whale",
+		"sentence": "তিমি",
+		"voice": "US English Female",
+		"langCode": "en-us",
+		"topics": {
+			"animals-en": true
+		},
+        "img": "https://images.unsplash.com/photo-1568430462989-44163eb1752f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8&w=1000&q=80"
+	},
+	{
+        "id": 4,
+        "word": "Lion",
+		"sentence": "সিংহ",
+		"voice": "US English Female",
+		"langCode": "en-us",
+		"topics": {
+			"animals-en": true
+		},
+        "img": "https://www.gannett-cdn.com/media/2022/03/16/USATODAY/usatsports/imageForEntry5-ODq.jpg"
+	},
+	{
+        "id": 7,
+        "word": "Children",
+		"sentence": "শিশু",
+		"voice": "US English Female",
+		"langCode": "en-us",
+		"topics": {
+			"family-en": true
+		},
+        "img": "https://eadn-wc04-796033.nxedge.io/cdn/wp-content/uploads/home-banner-3-e1646713417424.jpg"
+	},
+	{
+        "id": 8,
+        "word": "Father",
+		"sentence": "বাবা",
+		"voice": "US English Female",
+		"langCode": "en-us",
+		"topics": {
+			"family-en": true
+		},
+        "img": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202112/photo-1610194978275-8eee57ceaf_1200x768.jpeg?size=690:388"
+	},
+	{
+        "id": 9,
+        "word": "Mother",
+		"sentence": "মা",
+		"voice": "US English Female",
+		"langCode": "en-us",
+		"topics": {
+			"family-en": true
+		},
+        "img": "https://images.herzindagi.info/image/2022/Nov/5-questions-you-shouldnt-ask-a-new-mother.jpg"
+	}
+]
